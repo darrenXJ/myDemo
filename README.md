@@ -1,2 +1,1 @@
-# learnSelf
-自学仓库
+我的demo
