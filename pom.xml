@@ -33,7 +33,7 @@
 
         <mockito.version>2.7.12</mockito.version>
         <httpclient.version>4.5</httpclient.version>
-        <jetty.version>9.4.17.v20190418</jetty.version>
+        <jetty.version>9.4.41.v20210516</jetty.version>
     </properties>
 
     <dependencies>
